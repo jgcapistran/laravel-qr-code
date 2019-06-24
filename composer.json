@@ -8,7 +8,6 @@
             "email": "brunovaulawerneck@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "JGCapistran/qr-code": "^1.0"
     },
