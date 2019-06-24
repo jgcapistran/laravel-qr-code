@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "JGCapistran/qr-code": "^2.1"
+        "JGCapistran/qr-code": "^1.0"
     },
     "autoload": {
         "psr-4": {
