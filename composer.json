@@ -1,5 +1,5 @@
 {
-    "name": "werneckbh/laravel-qr-code",
+    "name": "JGCapistran/laravel-qr-code",
     "description": "QR Code Generator for PHP wrapper for Laravel",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "werneckbh/qr-code": "^2.1"
+        "JGCapistran/qr-code": "^2.1"
     },
     "autoload": {
         "psr-4": {
